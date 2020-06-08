@@ -1,6 +1,6 @@
 
 tasks:
-  - init: echo 'Hello' > ~/foo.txt
+  - init: echo 'Hello' >> ~/foo.txt
 vscode:
   extensions:
     - wingrunr21.vscode-ruby@0.27.0:VymtAvJQnv5jef/FsPtqJw==
